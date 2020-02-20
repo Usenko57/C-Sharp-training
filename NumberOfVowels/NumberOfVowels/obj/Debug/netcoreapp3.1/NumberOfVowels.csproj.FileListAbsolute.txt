@@ -1,0 +1,11 @@
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\bin\Debug\netcoreapp3.1\NumberOfVowels.exe
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\bin\Debug\netcoreapp3.1\NumberOfVowels.deps.json
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\bin\Debug\netcoreapp3.1\NumberOfVowels.runtimeconfig.json
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\bin\Debug\netcoreapp3.1\NumberOfVowels.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\bin\Debug\netcoreapp3.1\NumberOfVowels.dll
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\bin\Debug\netcoreapp3.1\NumberOfVowels.pdb
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\obj\Debug\netcoreapp3.1\NumberOfVowels.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\obj\Debug\netcoreapp3.1\NumberOfVowels.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\obj\Debug\netcoreapp3.1\NumberOfVowels.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\obj\Debug\netcoreapp3.1\NumberOfVowels.dll
+C:\Users\Daniil\source\repos\NumberOfVowels\NumberOfVowels\obj\Debug\netcoreapp3.1\NumberOfVowels.pdb
